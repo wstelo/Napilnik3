@@ -1,0 +1,7 @@
+C:\Users\WStelo\Desktop\Napilnik3\Napilnik3\bin\Debug\Napilnik3.exe.config
+C:\Users\WStelo\Desktop\Napilnik3\Napilnik3\bin\Debug\Napilnik3.exe
+C:\Users\WStelo\Desktop\Napilnik3\Napilnik3\bin\Debug\Napilnik3.pdb
+C:\Users\WStelo\Desktop\Napilnik3\Napilnik3\obj\Debug\Napilnik3.csproj.AssemblyReference.cache
+C:\Users\WStelo\Desktop\Napilnik3\Napilnik3\obj\Debug\Napilnik3.csproj.CoreCompileInputs.cache
+C:\Users\WStelo\Desktop\Napilnik3\Napilnik3\obj\Debug\Napilnik3.exe
+C:\Users\WStelo\Desktop\Napilnik3\Napilnik3\obj\Debug\Napilnik3.pdb
